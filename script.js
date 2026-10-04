@@ -18,7 +18,7 @@ document.querySelectorAll('.mobile-menu a').forEach(link => {
 });
 
 // Replace this number later with LOVINGLY's production WhatsApp number.
-const WHATSAPP_NUMBER = '919999999999';
+const WHATSAPP_NUMBER = '919656713208';
 const whatsappMessage = encodeURIComponent(
   "Hi LOVINGLY, I'd love to create a celebration experience for my moment."
 );
